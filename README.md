@@ -3,9 +3,12 @@
 
 ## Videos
 
-- [x] [Augmenting bladder cancer diagnostic utilizing unstructured data](https://youtu.be/1SlO5UdYL28) - Thibaut Troude, CTO at VitaDX. How to integrate create a feedback loop between annotation and training models.
-- [ ] [Changing the world by changing the data](https://youtu.be/rh7eV8KZEZ4) - Anna Rogers, Postdoctoral Researcher at the University of Copenhagen
-- [ ] From cleaning before ML to cleaning for ML - Félix Neutatz, Research Associate at Technische Universität Berlin
+- [Augmenting bladder cancer diagnostic utilizing unstructured data](https://youtu.be/1SlO5UdYL28) - Thibaut Troude, CTO at VitaDX. How to integrate create a feedback loop between annotation and training models.
+
+### Unpublished
+
+- [Changing the world by changing the data](https://youtu.be/rh7eV8KZEZ4) - Anna Rogers, Postdoctoral Researcher at the University of Copenhagen
+- From cleaning before ML to cleaning for ML - Félix Neutatz, Research Associate at Technische Universität Berlin
 https://youtu.be/RN8zpdIO4f4
 - Group fairness: recent developments and challenges - Evgenii Chzhen, Research scientist at CNRS/Université Paris-Saclay
 https://youtu.be/0AEzkyYVk_s
