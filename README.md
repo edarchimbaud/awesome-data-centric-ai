@@ -1,34 +1,45 @@
-# Awesome Data-centric AI
+<div align="center">
+    <h1>Awesome Data-centric AI</h1>
+</div>
 
-## Data Augmentation
+# Table of Contents
 
-## Data Labeling
+0. [Data Augmentation](#data-augmentation)
+1. [Data Labeling](#data-labeling)
+2. [Data Selection](#data-selection)
+3. [End of Modelitis](#end-of-modelitis)
+4. [Self-Supervision](#self-supervision)
+5. [Case studies](#case-studies)
 
-### Papers
+<h1 id="data-augmentation">Data Augmentation</h1>
+
+<h1 id="data-labeling">Data Labeling</h1>
+
+## Papers
 
 - [Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation](https://arxiv.org/abs/2109.01115) - Stanford University paper detailing a method to use crowdsourced language descriptions of videos to train robots on different tasks
 
-## Data Selection
+<h1 id="data-selection">Data Selection</h1>
 
-## End of modelitis
+<h1 id="end-of-modelitis">End of modelitis</h1>
 
 - [Changing the world by changing the data](https://bit.ly/3HoNDXJ) and [video](https://youtu.be/rh7eV8KZEZ4) - Anna Rogers, Postdoctoral Researcher at the University of Copenhagen
 
-## Use cases
-
-- [Augmenting bladder cancer diagnostic utilizing unstructured data](https://youtu.be/1SlO5UdYL28) - Thibaut Troude, CTO at VitaDX. How to integrate create a feedback loop between annotation and training models.
-
-## Self-Supervision
+<h1 id="self-supervision">Self-Supervision</h1>
 
 - https://arxiv.org/abs/2105.03824
 
-### Papers
+## Papers
 
 - [Training language models to follow instructions with human feedback](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf) - OpenAI paper detailing InstructGPT, a transformer model that surpassed GPT-3 in following natural language instructions and is claimed to be less toxic
 
-## Unclassified
+<h1 id="case-studies">Case studies</h1>
 
-### Papers
+- [Augmenting bladder cancer diagnostic utilizing unstructured data](https://youtu.be/1SlO5UdYL28) - Thibaut Troude, CTO at VitaDX. How to integrate create a feedback loop between annotation and training models.
+
+# Unclassified
+
+## Papers
 
 - From cleaning before ML to cleaning for ML - Félix Neutatz, Research Associate at Technische Universität Berlin
   https://youtu.be/RN8zpdIO4f4
