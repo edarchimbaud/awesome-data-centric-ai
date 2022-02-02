@@ -27,7 +27,8 @@
 
 <h1 id="self-supervision">Self-Supervision</h1>
 
-- https://arxiv.org/abs/2105.03824
+- [FNet: Mixing Tokens with Fourier Transforms](https://arxiv.org/abs/2105.03824) - Transformer encoder architectures can be sped up, with limited accuracy costs, by replacing the self-attention sublayers with simple linear transformations that "mix" input tokens.
+- [Resources for multilingual NLP in the neural era: the examples of OSCAR and CamemBERT](https://youtu.be/5T-TxQqAYJo) - Benoît Sagot, Research Director at Inria
 
 ## Papers
 
@@ -49,8 +50,6 @@
   https://youtu.be/qyTC8PSPuAw
 - Limitations of Autoregressive Models and Their Alternatives - Chu-Cheng Lin, Research Assistant at Carnegie Mellon University
   https://youtu.be/SCanHYvPRvY
-- Resources for multilingual NLP in the neural era: the examples of OSCAR and CamemBERT - Benoît Sagot, Research Director at Inria
-  https://youtu.be/5T-TxQqAYJo
 - The role of data in end-to-end learned autonomy - Fergal Cotter, Head of the Perception team at Wayve
   https://youtu.be/0Dt0lHLaAX0
 - Why and how to care about ML ethics - Clement Delangue, Hugging Face CEO and co-founder
