@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Awesome Data-Centric AI</h1>
-    <img src="/static/dcai-full-RGB-2400px.png" style="width: 200px;"/>
+    <img src="./static/dcai-full-RGB-2400px.png" style="width: 200px;"/>
 </div>
 
 # Table of Contents
@@ -22,9 +22,6 @@
 
 - [A Realistic Simulation Framework for Learning with Label Noise](https://arxiv.org/pdf/2107.11413v1.pdf) and [code](https://github.com/deepmind/deepmind-research/tree/master/noisy_label)
 - [A Survey on Deep Learning with Noisy Labels: How to train your model when you cannot trust on the annotations?](https://arxiv.org/abs/2012.03061) and [code](https://github.com/filipe-research/tutorial_noisylabels)
-
-
-
 - From cleaning before ML to cleaning for ML - Félix Neutatz, Research Associate at Technische Universität Berlin
   https://youtu.be/RN8zpdIO4f4
 
