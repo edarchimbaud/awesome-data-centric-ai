@@ -18,8 +18,20 @@
 
 - 2021-CVPR - Augmentation Strategies for Learning with Noisy Labels. [Paper](https://arxiv.org/abs/2103.02130) [Code](https://github.com/KentoNishi/Augmentation-for-LNL)
 
+Image:
+
+- CutMix. It pastes a random patch from one image onto the other and updates the label to be weighted sum of the two image labels proportional to the size of the cutouts. [Paper](https://arxiv.org/abs/1905.04899) [Code](https://github.com/clovaai/CutMix-PyTorch)
+- ReMixMatch. It extends image augmentation to a semi-supervised setup. [Paper](https://arxiv.org/abs/1911.09785) [Code](https://github.com/google-research/remixmatch)
+
+Text:
+
+- Neighbors in a word embedding space [Paper](https://aclanthology.org/D15-1306.pdf) [Code](https://github.com/makcedward/nlpaug)
+- Probable words according to a language model that takes the sentence context into account [Paper](https://aclanthology.org/N18-2072.pdf) [Code](https://github.com/pfnet-research/contextual_augmentation)
+- Backtranslation [Paper](https://arxiv.org/abs/1904.12848) [Code](https://github.com/google-research/uda)
 # Data Cleansing
 
+- Generalized Label Shift Correction via Minimum Uncertainty Principle: Theory and Algorithm [Paper](https://arxiv.org/pdf/2202.13043.pdf)
+- Resolving label uncertainty with implicit posterior models, a method for jointly inferring labels across a collection of data samples, where each sample consists of an observation and a prior belief about the label [Paper](https://arxiv.org/abs/2202.14000)
 - [A Realistic Simulation Framework for Learning with Label Noise](https://arxiv.org/pdf/2107.11413v1.pdf) and [code](https://github.com/deepmind/deepmind-research/tree/master/noisy_label)
 - [A Survey on Deep Learning with Noisy Labels: How to train your model when you cannot trust on the annotations?](https://arxiv.org/abs/2012.03061) and [code](https://github.com/filipe-research/tutorial_noisylabels)
 - From cleaning before ML to cleaning for ML - Félix Neutatz, Research Associate at Technische Universität Berlin
