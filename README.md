@@ -16,7 +16,10 @@
 
 # Data Augmentation
 
+General:
+
 - 2021-CVPR - Augmentation Strategies for Learning with Noisy Labels. [Paper](https://arxiv.org/abs/2103.02130) [Code](https://github.com/KentoNishi/Augmentation-for-LNL)
+- Fast AutoAugment. In comparison to AutoAugment, the proposed algorithm speeds up the search time by orders of magnitude. [paper](https://arxiv.org/pdf/1905.00397.pdf) [code](https://github.com/kakaobrain/fast-autoaugment)
 
 Image:
 
@@ -28,6 +31,12 @@ Text:
 - Neighbors in a word embedding space [Paper](https://aclanthology.org/D15-1306.pdf) [Code](https://github.com/makcedward/nlpaug)
 - Probable words according to a language model that takes the sentence context into account [Paper](https://aclanthology.org/N18-2072.pdf) [Code](https://github.com/pfnet-research/contextual_augmentation)
 - Backtranslation [Paper](https://arxiv.org/abs/1904.12848) [Code](https://github.com/google-research/uda)
+
+Audio:
+
+- Audio Augmentation for Speech Recognition [paper](https://www.danielpovey.com/files/2015_interspeech_augmentation.pdf)  [code](https://github.com/iver56/audiomentations)
+
+
 # Data Cleansing
 
 - Generalized Label Shift Correction via Minimum Uncertainty Principle: Theory and Algorithm [Paper](https://arxiv.org/pdf/2202.13043.pdf)
@@ -62,6 +71,7 @@ Text:
 - [Resources for multilingual NLP in the neural era: the examples of OSCAR and CamemBERT](https://youtu.be/5T-TxQqAYJo) - Benoît Sagot, Research Director at Inria
 - [Training language models to follow instructions with human feedback](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf) - OpenAI paper detailing InstructGPT, a transformer model that surpassed GPT-3 in following natural language instructions and is claimed to be less toxic
 - 2021-MM - Co-learning: Learning from Noisy Labels with Self-supervision. [Paper](https://arxiv.org/abs/2108.04063) [Code](https://github.com/chengtan9907/co-training-based_noisy-label-learning)
+- data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language [paper](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language) [code](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)
 
 
 # Case studies
