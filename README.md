@@ -72,7 +72,9 @@ Audio:
 - [Training language models to follow instructions with human feedback](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf) - OpenAI paper detailing InstructGPT, a transformer model that surpassed GPT-3 in following natural language instructions and is claimed to be less toxic
 - 2021-MM - Co-learning: Learning from Noisy Labels with Self-supervision. [Paper](https://arxiv.org/abs/2108.04063) [Code](https://github.com/chengtan9907/co-training-based_noisy-label-learning)
 - data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language [paper](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language) [code](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)
-
+- On the Opportunities and Risks of Foundation Models [paper](https://arxiv.org/pdf/2108.07258.pdf)
+- Bootleg: Chasing the Tail with Self-Supervised Named Entity Disambiguation [paper](https://arxiv.org/pdf/2010.10363.pdf)
+- Overton: A Data System for Monitoring and Improving Machine-Learned Products [paper](https://www.cs.stanford.edu/~chrismre/papers/overton-tr.pdf)
 
 # Case studies
 
